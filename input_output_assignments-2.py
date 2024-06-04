@@ -18,7 +18,7 @@ I Love Python
 s1=input("Enter hello:")
 s2=input("Enter name:")
 print(s1,s2)
-s1=input("Enter hello:")
+s1=input("Enter hi:")
 s2=input("Enter name:")
 print(s1,s2)
 s1=input("Enter i love:")
