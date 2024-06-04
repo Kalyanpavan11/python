@@ -18,8 +18,12 @@ I Love Python
 s1=input("Enter hello:")
 s2=input("Enter name:")
 print(s1,s2)
-print("hi",s2)
-print("i love python
+s1=input("Enter hello:")
+s2=input("Enter name:")
+print(s1,s2)
+s1=input("Enter i love:")
+s2=input("Enter python:")
+print(s1,s2)
 
 """
 Write a script that asks the user for their name, age, and favorite color, and then prints a single sentence summarizing this information in a formatted string.
